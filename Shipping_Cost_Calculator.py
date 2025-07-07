@@ -1,4 +1,5 @@
 # Shipping Cost Calculator
+# The new changes has been made my Aryan-aoo-linux.
 
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
